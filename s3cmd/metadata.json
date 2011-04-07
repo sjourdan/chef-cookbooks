@@ -1,0 +1,36 @@
+{
+  "name": "s3cmd",
+  "description": "Installs/Configures s3cmd",
+  "long_description": "= DESCRIPTION:\nInstalls s3cmd\n\n= REQUIREMENTS:\nPlatform Debian, Ubuntu\n\n= ATTRIBUTES:\n\nTODO\n\n= USAGE:\n\nSimply include the recipe where you want s3cmd installed",
+  "maintainer": "Stephane Jourdan",
+  "maintainer_email": "sjourdan@greenalto.com",
+  "license": "Apache 2.0",
+  "platforms": {
+    "ubuntu": [
+
+    ],
+    "debian": [
+
+    ]
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "s3cmd": "Installs and configures s3cmd"
+  },
+  "version": "0.0.9"
+}

@@ -1,0 +1,13 @@
+= DESCRIPTION:
+Installs s3cmd
+
+= REQUIREMENTS:
+Platform Debian, Ubuntu
+
+= ATTRIBUTES:
+
+TODO
+
+= USAGE:
+
+Simply include the recipe where you want s3cmd installed
